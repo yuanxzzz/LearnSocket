@@ -1,0 +1,5 @@
+﻿  ChatRoomClient.cpp
+  ClientMain.cpp
+  正在生成代码...
+E:\Project\C++\TCPSocket\ChatRoomClient\ChatRoomClient.cpp(65): warning C4715: “ChatRoomClient::Run”: 不是所有的控件路径都返回值
+  ChatRoomClient.vcxproj -> E:\Project\C++\TCPSocket\x64\Debug\ChatRoomClient.exe

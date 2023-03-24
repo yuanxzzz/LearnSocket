@@ -1,0 +1,36 @@
+﻿  ChatRoomServer.cpp
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(188,22): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(321,8): warning C4101: “dwSendCount”: 未引用的局部变量
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(499,36): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(501,54): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(501,85): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(504,58): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(508,62): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(510,61): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(516,44): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(517,46): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(519,83): warning C4244: “参数”: 从“ULONG_PTR”转换到“const int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(546,36): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(548,54): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(548,85): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(551,58): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(555,62): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(557,61): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(563,44): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(564,46): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(566,83): warning C4244: “参数”: 从“ULONG_PTR”转换到“const int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(573,59): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(574,32): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(574,77): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(575,39): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(577,37): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(581,27): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(582,41): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(582,86): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(582,150): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(583,34): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(590,22): warning C4244: “参数”: 从“ULONG_PTR”转换到“int”，可能丢失数据
+  ServerMain.cpp
+  正在生成代码...
+E:\Project\C++\TCPSocket\ChatRoomServer\ChatRoomServer.cpp(209): warning C4715: “ChatRoomServer::StartUp”: 不是所有的控件路径都返回值
+  ChatRoom.vcxproj -> E:\Project\C++\TCPSocket\x64\Debug\ChatRoomServer.exe
